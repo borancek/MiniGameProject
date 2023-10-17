@@ -16,3 +16,7 @@ Here I request the user's name in order to add a personalised touch to enhance t
 ![Screenshot 2023-10-17 at 17 17 19](https://github.com/borancek/MiniGameProject/assets/77752760/30a28d06-6189-4e73-97f9-b1c68c7ddb24)
 <br>
 At this point, the user is presented with a selection of three games to choose from, alongside an option to exit the game if they prefer not to play.
+## Game 1
+![Screenshot 2023-10-17 at 17 20 31](https://github.com/borancek/MiniGameProject/assets/77752760/0f1ddbde-aa9f-48ff-9fe2-ac8394a27646)
+<br>
+Upon inputting '1', the user engages in the first game, the palindrome checker. Following the conclusion of the game, the user is provided with the opportunity to select another game to play.
