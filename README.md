@@ -20,3 +20,11 @@ At this point, the user is presented with a selection of three games to choose f
 ![Screenshot 2023-10-17 at 17 20 31](https://github.com/borancek/MiniGameProject/assets/77752760/0f1ddbde-aa9f-48ff-9fe2-ac8394a27646)
 <br>
 Upon inputting '1', the user engages in the first game, the palindrome checker. Following the conclusion of the game, the user is provided with the opportunity to select another game to play.
+## Game 2
+![Screenshot 2023-10-17 at 17 24 49](https://github.com/borancek/MiniGameProject/assets/77752760/737cabae-73e1-4b4b-a7ab-ed548d27fa65)
+<br>
+Upon inputting '2', the user engages in the second game, the Adjacent Element Checker. Following the conclusion of the game, the user is provided with the opportunity to select another game to play.
+## Game 3
+![Screenshot 2023-10-17 at 17 29 32](https://github.com/borancek/MiniGameProject/assets/77752760/09b87a5b-f9c8-4efe-8ccd-034096091273)
+<br>
+Upon inputting '3', the user engages in the third game, the Magic 8-Ball fortune teller. Following the conclusion of the game, the user is provided with the opportunity to select another game to play.
