@@ -12,7 +12,7 @@ I took on this project with the primary objective of expanding my proficiency in
 <br>
 Here I request the user's name in order to add a personalised touch to enhance their experience.
 <br>
-##Game Selection
+## Game Selection
 ![Screenshot 2023-10-17 at 17 17 19](https://github.com/borancek/MiniGameProject/assets/77752760/30a28d06-6189-4e73-97f9-b1c68c7ddb24)
 <br>
 At this point, the user is presented with a selection of three games to choose from, alongside an option to exit the game if they prefer not to play.
